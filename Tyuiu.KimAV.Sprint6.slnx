@@ -29,4 +29,9 @@
     <Project Path="Tyuiu.KimAV.Sprint6.Task5.V14.Test/Tyuiu.KimAV.Sprint6.Task5.V14.Test.csproj" />
     <Project Path="Tyuiu.KimAV.Sprint6.Task5.V14/Tyuiu.KimAV.Sprint6.Task5.V14.csproj" />
   </Folder>
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.KimAV.Sprint6.Task6.V6.Lib/Tyuiu.KimAV.Sprint6.Task6.V6.Lib.csproj" />
+    <Project Path="Tyuiu.KimAV.Sprint6.Task6.V6.Test/Tyuiu.KimAV.Sprint6.Task6.V6.Test.csproj" />
+    <Project Path="Tyuiu.KimAV.Sprint6.Task6.V6/Tyuiu.KimAV.Sprint6.Task6.V6.csproj" />
+  </Folder>
 </Solution>
